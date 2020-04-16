@@ -1,0 +1,124 @@
+@@ -1805,12 +1805,12 @@
+ = 4 41 02 6804571 & c s@@ -1946,42 +1946,42 @@
+ 6 4 /4f6075 1482eb449b8b9c0863ec 1bd8ff f 0467a4ccfa27ddc320 8f19e94d _ T N@@ -2136,139 +2136,137 @@
+ = 4 41 02 6871&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Ace</a></div>\r\n<div class="listanimalid">441 045&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Aiden</a></div>\r\n<div class="listanimalid">4402 6804571 < / d@@ -2359,102 +2357,114 @@
+ a l e/Ne</div>\r\n<div class="listanimalbreed">Terrier, Staffordshire B utered</div>\r\n<div class="listanimalbreed">Bell/Mix</div>\r\n<div class="listanimal a gle/Mix</div>\r\n<div class="listanimalag e " >@@ -2497,924 +2507,17 @@
+ n " >5915 Lincoln Avenue Morton Grove Illinois</div>\r\n</div>\r\n</td>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44068085&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/98260c8d68a94a28bacb9fac72be7938_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44068085&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Alabaster</a></div>\r\n<div class="listanimalid">44068085</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Male/Neutered</div>\r\n<div class="listanimalbreed">Beagle/Mix</div>\r\n<div class="listanimalage"> 2 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove IllinoisFoster Home < / d@@ -4310,23 +3413,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -5170,6 +4256,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -6855,23 +5958,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -7726,6 +6812,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -8683,12 +7786,12 @@
+ = 4 41 062 8 2391 & c s@@ -8824,42 +7927,42 @@
+ 6 4 /64d9c9dd1d 8 174 19c68 1ab262 770b4 5da 85 829dc9e5bc 8de4b 1d5e _ T N@@ -9014,12 +8117,12 @@
+ = 4 41 062 8 2391 & c s@@ -9094,60 +8197,60 @@
+ > A rthur</a></div>\r\n<div class="listanimalid">44cher</a></div>\r\n<div class="listanimalid">441 062 8 2391 < / d@@ -9238,102 +8341,114 @@
+ a l e/Ne</div>\r\n<div class="listanimalbreed">Terrier, Staffordshire B utered</div>\r\n<div class="listanimalbreed">Bell/Mix</div>\r\n<div class="listanimal a gle/Mix</div>\r\n<div class="listanimalag e " >@@ -9376,88 +8491,41 @@
+ n " >5915 Lincoln Avenue Morton Grove Illinois</div>\r\n</div>\r\n</td>\r\n</tr>\r\n<trFoster Home</div>\r\n</div>\r\n</td > \ r@@ -10339,6 +9407,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -10452,9 +9537,9 @@
+ 0 6 89 2620 & c s@@ -10590,42 +9675,42 @@
+ 6 4 /be718beb8 28648d6a25913f9653c 74c0 275ba952f4635a8e72d199ecc0cd7 _ T N@@ -10783,9 +9868,9 @@
+ 0 6 89 2620 & c s@@ -10858,12 +9943,13 @@
+ "   >AudreyBarnett < / a@@ -10911,9 +9997,9 @@
+ 0 6 89 2620 < / d@@ -11000,66 +10086,77 @@
+ N " >Female/Spayed</div>\r\n<div class="listanimalbreed">Male/Neutered</div>\r\n<div class="listanimalbreed">Terrier, Pit  Beagleull / M i@@ -12032,920 +11129,6 @@
+ o m e</div>\r\n</div>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44068853&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/deda45d1060a497c862e50012c24072f_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44068853&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Becca</a></div>\r\n<div class="listanimalid">44068853</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Female/Spayed</div>\r\n<div class="listanimalbreed">Great Pyrenees/Retriever, Labrador</div>\r\n<div class="listanimalage"> 3 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinois < / d@@ -13829,6 +12012,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -14674,23 +12874,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -16375,6 +14558,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -17231,23 +15431,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -18938,6 +17121,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -19779,23 +17979,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -21505,6 +19688,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -22358,23 +20558,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -24088,6 +22271,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -24929,23 +23129,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -26673,6 +24856,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -27520,23 +25720,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -29219,6 +27402,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -30046,23 +28246,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -31041,184 +29224,184 @@
+ d = 440538 73428&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/82a26fc7e63c4e3fa3d69 0 2c9f1 0&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/4a8123b6b18d453983b6d4f39d312406acab _ T N@@ -31372,13 +29555,13 @@
+ d = 440538 7034 208 & c s@@ -31453,59 +29636,61 @@
+ > D amon</a></div>\r\n<div class="listanimalid">4405rling</a></div>\r\n<div class="listanimalid">438 7034 208 < / d@@ -31592,83 +29777,79 @@
+ N " >Male/Neutered</div>\r\n<div class="listanimalbreed">Female/Spayed</div>\r\n<div class="listanimalbreed">Beagle/Terrier,  Retriever, Labrador/Mixat < / d@@ -31818,2674 +29999,17 @@
+ \ n <td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=43873428&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/82a26fc7e63c4e3fa3d6902c9f10acab_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=43873428&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Darling</a></div>\r\n<div class="listanimalid">43873428</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Female/Spayed</div>\r\n<div class="listanimalbreed">Beagle/Terrier, Rat</div>\r\n<div class="listanimalage"> 3 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinois</div>\r\n</div>\r\n</td>\r\n</tr>\r\n<tr>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44057100&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/1ada21fe6e244564a7b5ae7c24d2021d_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44057100&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Dawn</a></div>\r\n<div class="listanimalid">44057100</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Female/Spayed</div>\r\n<div class="listanimalbreed">Retriever, Labrador/Mix</div>\r\n<div class="listanimalage"> 3 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinois</div>\r\n</div>\r\n</td>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44057048&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/4d3767ff140b49e08a0c38fe6a3d6703_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44057048&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Dimitri</a></div>\r\n<div class="listanimalid">44057048</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Male/Neutered</div>\r\n<div class="listanimalbreed">Retriever, Labrador/Mix</div>\r\n<div class="listanimalage"> 3 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinois</div>\r\n</div>\r\n</td/tr>\r\n<tr > \ r@@ -35325,23 +30849,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -37076,6 +32583,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -37963,23 +33487,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -39754,6 +35261,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -40635,23 +36159,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -42437,6 +37944,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -43324,23 +38848,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -44164,896 +39671,6 @@
+ o m e</div>\r\n</div>\r\n</td>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44035836&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/69f026c7e56b4790965956a20ce08a41_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44035836&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Emmerson</a></div>\r\n<div class="listanimalid">44035836</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Male/Neutered</div>\r\n<div class="listanimalbreed">American Blue Heeler/Mix</div>\r\n<div class="listanimalage"> 3 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinois < / d@@ -59645,47 +54262,17 @@
+ n " >5915 Lincoln Avenue Morton Grove IllinoisFoster Home < / d@@ -113908,894 +108495,6 @@
+ = 4 4076834&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/5cd557daf1264a6a953e41fd7e3ac44f_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44076834&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Luna</a></div>\r\n<div class="listanimalid">44076834</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Female/Spayed</div>\r\n<div class="listanimalbreed">Retriever, FlatCoated/Mix</div>\r\n<div class="listanimalage"> 3 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinois</div>\r\n</div>\r\n</td>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44 1 2 4@@ -115468,6 +109167,864 @@
+ n t h</div>\r\n<div class="hidden">Foster Home</div>\r\n</div>\r\n</td>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44102780&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/7848695b42ff44eca67c85d09c1b9c19_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44102780&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Maggie</a></div>\r\n<div class="listanimalid">44102780</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Female</div>\r\n<div class="listanimalbreed">Terrier, Staffordshire Bull/Mix</div>\r\n<div class="listanimalage"> 2 months < / d@@ -124306,12 +118863,12 @@
+ d = 439934 140278 8 & c@@ -124448,42 +119005,42 @@
+ 6 4 /ba2c9d337d f9d931eb24 826 85a41c78da73d9fc1f 2 87a 30 9e4628bad0 _ T N@@ -124637,12 +119194,12 @@
+ d = 439934 140278 8 & c@@ -124763,12 +119320,12 @@
+ " > 439934 140278 8 < /@@ -124860,189 +119417,167 @@
+ a l e/Ne</div>\r\n<div class="listanimalbreed">Terrier, Staffordshire B utered</div>\r\n<div class="listanimalbreed">Shepherd/ll/Mix</div>\r\n<div class="listanimalage"> 2 months</div>\r\n<div class="hidden">Foster  H ound</div>\r\n<div class="listanimalage"> 4 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinoisme < / d@@ -126911,184 +121446,184 @@
+ d = 4410281 3&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/a 82ea2f 058e3 044d2b0d3f7b92a 1 7&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/ 90a8 1bc 1adb71492da9af9909ffb55f60 _ T N@@ -127242,144 +121777,141 @@
+ d = 4410281 3&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Murphy</a></div>\r\n<div class="listanimalid">44102 8050 17&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Mr Batman</a></div>\r\n<div class="listanimalid">4 3805017 < / d@@ -127470,215 +122002,167 @@
+ a l e/Ne</div>\r\n<div class="listanimalbreed">Terrier, Staffordshire B utered</div>\r\n<div class="listanimalbreed">American Bluell/Mix</div>\r\n<div class="listanimalage"> 2 months</div>\r\n<div class="hidden">Foster   Heeler/Retriever, Labrador</div>\r\n<div class="listanimalage"> 3 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinoisome < / d@@ -140033,6 +134517,881 @@
+ = 4 4079743&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/efaccbfc5b4a4bcd9938dd2dc2d43849_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44079743&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Octavio</a></div>\r\n<div class="listanimalid">44079743</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Male</div>\r\n<div class="listanimalbreed">German Shepherd/Mix</div>\r\n<div class="listanimalage"> 6 months</div>\r\n<div class="hidden">5915 Lincoln Avenue Morton Grove Illinois</div>\r\n</div>\r\n</td>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44 1 3 1@@ -141647,6 +137006,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -142503,23 +137879,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -144245,6 +139604,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -145106,23 +140482,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -146817,6 +142176,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -147678,23 +143054,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -149387,6 +144746,877 @@
+ \ n </tr>\r\n<tr>\r\n<td class="listitem">\r\n<div class="listanimalphotoblock">\r\n<a href="wsAdoptableAnimalDetails.aspx?id=44102800&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" ><img class="listanimalphoto" src="//g.petango.com/photos/364/8d0436e8e0364ad8a71022c5c1193d3c_TN1.jpg" alt="Photo"></a>\r\n</div>\r\n<div class="listanimalinfoblock">\r\n<div class="listanimalname"><a href="wsAdoptableAnimalDetails.aspx?id=44102800&css=http://ws.petango.com/WebServices/adoptablesearch/css/styles.css" >Otis</a></div>\r\n<div class="listanimalid">44102800</div>\r\n<div class="listanimaspecies">Dog</div>\r\n<div class="listanimalsexSN">Male</div>\r\n<div class="listanimalbreed">Terrier, Staffordshire Bull/Mix</div>\r\n<div class="listanimalage"> 2 months</div>\r\n<div class="hidden">Foster Home</div>\r\n</div>\r\n</td>\r\n< t d  @@ -150216,23 +146446,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -151143,6 +147356,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -152874,23 +149104,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -153789,6 +150002,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -155555,23 +151785,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -156434,6 +152647,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -158240,23 +154470,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -159085,6 +155298,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -160852,23 +157082,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -161773,6 +157986,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -163504,23 +159734,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -164381,6 +160594,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -166148,23 +162378,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -167027,6 +163240,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -168772,23 +165002,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -169644,6 +165857,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -171413,23 +167643,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -172279,6 +168492,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -173955,23 +170185,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -174826,6 +171039,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -176550,23 +172780,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -177414,6 +173627,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -179136,23 +175366,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -180016,6 +176229,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -181739,23 +177969,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -182600,6 +178813,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -184305,23 +180535,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -185185,6 +181398,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -186885,23 +183115,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -187761,6 +183974,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -189472,23 +185702,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -190337,6 +186550,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -192053,23 +188283,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -192923,6 +189136,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -194598,88 +190828,41 @@
+ n " >5915 Lincoln Avenue Morton Grove Illinois</div>\r\n</div>\r\n</td>\r\n</tr>\r\n<trFoster Home</div>\r\n</div>\r\n</td > \ r@@ -195545,6 +191728,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -197272,23 +193472,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -198154,6 +194337,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -199909,23 +196109,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -200792,6 +196975,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -202536,23 +198736,6 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -203428,6 +199611,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -205156,23 +201356,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -206049,6 +202232,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -207789,23 +203989,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -208669,6 +204852,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -210413,23 +206613,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -211303,6 +207486,23 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -213019,23 +209219,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -213882,6 +210065,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -215585,23 +211785,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -216437,6 +212620,23 @@
+ / t d>\r\n</tr>\r\n<tr > \ r@@ -218130,23 +214330,6 @@
+ \ n </tr>\r\n<tr>\r\n< t d  @@ -219009,68 +215192,6 @@
+ r \ n</td>\r\n<td class="listitem"></td>\r\n<td class="listitem"> < / t
